@@ -1,2 +1,0 @@
-# ReactSpaB
-Created with CodeSandbox
